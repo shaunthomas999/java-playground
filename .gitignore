@@ -1,0 +1,32 @@
+## Java
+#
+*.class
+*.jar
+
+## Maven
+#
+target/
+**/target
+/*/target
+/target
+
+## IntelliJ
+#
+*.iml
+.idea/
+*.ipr
+*.iws
+out/
+.idea_modules/
+
+## Spring
+#
+**/logs
+**/work
+*.log
+tmp
+
+## OS X
+#
+.DS_Store
+#**/.DS_Store
