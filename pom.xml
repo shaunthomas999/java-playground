@@ -11,6 +11,6 @@
   <modules>
     <module>java-basics</module>
     <module>java-11</module>
-    <module>java-14</module>
+    <module>java-16</module>
   </modules>
 </project>
