@@ -4,11 +4,10 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class A_VirtualThreadsExamplesTest {
+class FStringTemplatesTest {
 
   @Test
   void example_01_Test() {
-//    assertTrue(true);
-    new A_VirtualThreadsExamples().example_01();
+    new FStringTemplates().example_01();
   }
 }
