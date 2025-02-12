@@ -1,4 +1,4 @@
-package com.shaunthomas999.advanced.collections.comparableNcomparator;
+package com.shaunthomas999.advanced.collections.comparableNcomparator.comparable;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -6,7 +6,7 @@ import java.util.Collections;
 /**
  * Created by shaunthomas on 14/10/16.
  */
-public class Main {
+public class ComparableMain {
 
     public static void main(String[] args) {
 

@@ -1,4 +1,4 @@
-package com.shaunthomas999.advanced.collections.comparableNcomparator;
+package com.shaunthomas999.advanced.collections.comparableNcomparator.comparable;
 
 /**
  * Created by shaunthomas on 14/10/16.
