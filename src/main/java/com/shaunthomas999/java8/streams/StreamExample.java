@@ -4,6 +4,11 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
+/*
+  Stream API
+  - java.util.stream
+  - Stream.gather(Gatherer)
+ */
 public class StreamExample {
 
     public static void main(String[] args) {
