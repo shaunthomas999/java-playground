@@ -1,6 +1,6 @@
 package com.shaunthomas999.java8.extensionMethods;
 
-public class ExtensionMethodClass implements com.shaunthomas999.java8.extensionMethods.ExtensionMethodInterface {
+public class ExtensionMethodClass implements ExtensionMethodInterface {
 
     @Override
     public void printSomething() {

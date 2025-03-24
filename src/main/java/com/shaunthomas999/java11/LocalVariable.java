@@ -1,4 +1,4 @@
-package com.shaunthomas999.java;
+package com.shaunthomas999.java11;
 
 public class LocalVariable {
 
