@@ -12,7 +12,7 @@ public class A_VirtualThreadsExamples {
   public void example_01() {
     try (var executor = Executors.newVirtualThreadPerTaskExecutor()) {
       // 10_000
-      IntStream.range(0, 100).forEach(i -> {
+      IntStream.range(0, 25).forEach(i -> {
         executor.submit(() -> {
           System.out.println("virtual-thread: start~" + i);
           Thread.sleep(Duration.ofMillis(100));
