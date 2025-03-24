@@ -14,8 +14,9 @@ public class A_VirtualThreadsExamples {
       // 10_000
       IntStream.range(0, 100).forEach(i -> {
         executor.submit(() -> {
-//          System.out.println(STR."virtual-thread #\{i}");
+          System.out.println("virtual-thread: start~" + i);
           Thread.sleep(Duration.ofMillis(100));
+          System.out.println("virtual-thread: end~" + i);
           return i;
         });
       });
