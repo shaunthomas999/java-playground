@@ -1,6 +1,5 @@
 package com.shaunthomas999.advanced.collections;
 
-import lombok.Value;
 import org.junit.Test;
 
 import java.util.ArrayList;
@@ -16,8 +15,8 @@ public class ArrayListTest {
     }
   }
 
-  @Value
   public class ArrayListExtended extends ArrayList<SomeClass01> {
+
   }
 
   @Test
