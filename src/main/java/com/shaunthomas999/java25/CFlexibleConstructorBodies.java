@@ -1,4 +1,4 @@
-package com.shaunthomas999.java24;
+package com.shaunthomas999.java25;
 
 /*
   Flexible Constructor Bodies (Preview Feature)

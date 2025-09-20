@@ -10,7 +10,7 @@
   <packaging>jar</packaging>
 
   <properties>
-    <java.version>24</java.version>
+    <java.version>25</java.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
     <maven.compiler.source>${java.version}</maven.compiler.source>
@@ -21,11 +21,11 @@
     <junit-jupiter.version>[5.12,5.13)</junit-jupiter.version>
     <assertj.version>[3.27,3.28)</assertj.version>
     <slf4j.version>2.0.16</slf4j.version>
-    <logback-classic.version>1.4.14</logback-classic.version>
+    <logback-classic.version>1.5.13</logback-classic.version>
 
     <maven-compiler-plugin.version>3.14.0</maven-compiler-plugin.version>
-    <maven-surefire-plugin.version>3.5.2</maven-surefire-plugin.version>
-    <maven-failsafe-plugin.version>3.5.2</maven-failsafe-plugin.version>
+    <maven-surefire-plugin.version>3.5.3</maven-surefire-plugin.version>
+    <maven-failsafe-plugin.version>3.5.3</maven-failsafe-plugin.version>
     <maven-jar-plugin.version>3.4.1</maven-jar-plugin.version>
     <maven-install-plugin.version>3.1.2</maven-install-plugin.version>
   </properties>

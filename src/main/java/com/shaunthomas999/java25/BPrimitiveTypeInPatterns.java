@@ -1,4 +1,4 @@
-package com.shaunthomas999.java24;
+package com.shaunthomas999.java25;
 
 /*
   Primitive Types in Patterns, instanceof, and switch (Preview Feature)
