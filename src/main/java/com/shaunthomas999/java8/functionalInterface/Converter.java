@@ -1,7 +1,8 @@
 package com.shaunthomas999.java8.functionalInterface;
 
 /**
- * Created by shaunthomas on 02/08/16.
+  A functional interface is an interface with exactly one abstract method.
+  It can have any number of default or static methods.
  */
 @FunctionalInterface
 public interface Converter<F, T> {
